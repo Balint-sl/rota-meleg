@@ -1,0 +1,28 @@
+.navbar ul {
+    list-style-type: none;
+    background: linear-gradient(45deg,#037e9c, #09328a);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    margin-left: -1.5vh;
+    margin: -1vh;
+    width: 500vh;
+    height: 6vh;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    float: center;
+    text-align: center;
+    margin: 0.5vh;
+}
+.navbar a:hover{
+    background-color: hsla(212, 57%, 24%, 0.733);
+    width: 18vh;
+    height: 2vh;
+}
+.navbar li{
+    float: left;
+}
